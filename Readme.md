@@ -1,4 +1,4 @@
-# AP Content API V3
+# AP Content API V4
 
 [About AP Content API](#about-content-api) 
 - [Typical Workflow Overview](#typical-workflow-overview) 
